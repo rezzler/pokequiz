@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pokequiz/static/css/main.32a63be1.css",
-    "main.js": "/pokequiz/static/js/main.f74c84c5.js",
+    "main.js": "/pokequiz/static/js/main.ede157c4.js",
     "static/js/488.c1d91339.chunk.js": "/pokequiz/static/js/488.c1d91339.chunk.js",
     "index.html": "/pokequiz/index.html",
     "main.32a63be1.css.map": "/pokequiz/static/css/main.32a63be1.css.map",
-    "main.f74c84c5.js.map": "/pokequiz/static/js/main.f74c84c5.js.map",
+    "main.ede157c4.js.map": "/pokequiz/static/js/main.ede157c4.js.map",
     "488.c1d91339.chunk.js.map": "/pokequiz/static/js/488.c1d91339.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32a63be1.css",
-    "static/js/main.f74c84c5.js"
+    "static/js/main.ede157c4.js"
   ]
 }
